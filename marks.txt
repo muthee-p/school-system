@@ -1,0 +1,2 @@
+john, mwangi, 777, 56
+mary, mwangi, 778, 78
