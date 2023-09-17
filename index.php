@@ -7,11 +7,10 @@
 	<title></title>
 </head>
 <body>
-	<p> hello</p>
-	<?php
-		echo "my first"
-	?>
-<a href="login.php">Login</a>
+	<h2>Welcome to Mwanafunzi school</h2>
+
+<a href="login.php"> Please Login</a>
+
 
 </body>
 </html>
